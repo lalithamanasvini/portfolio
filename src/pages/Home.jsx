@@ -150,7 +150,7 @@ const Home = () => {
             <a href="https://www.instagram.com/lalithamanasvini?igsh=eTBmaG1wam92cGph" target="_blank" rel="noopener noreferrer">
               <FaInstagram /> Instagram
             </a>
-            <a href="file:///C:/Users/manasvini/Downloads/Resume_new.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Resume_new.pdf" download="Resume_Lalitha_Manasvini.pdf" rel="noopener noreferrer">
               <FaFilePdf /> My Resume
             </a>
           </div>
