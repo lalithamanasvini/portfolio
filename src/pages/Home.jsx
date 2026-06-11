@@ -32,12 +32,12 @@ const Home = () => {
     phone: "+91 9392716299",
     personalEmail: "lalithamanasvinisp@gmail.com",
     collegeEmail: "se23ucse051@mahindrauniversity.edu.in",
-    skills: ["React.js", "Node.js", "Python", "TensorFlow", "TypeScript", "Tailwind CSS"],
+    skills: ["React.js", "Node.js", "Express.js", "Python", "TensorFlow", "TypeScript", "Tailwind CSS"],
   };
 
   const researchInterests = [
     "🧠 Artificial Intelligence & Machine Learning",
-    "🌐 Web3 & Decentralized Systems",
+    "🌐 Web Technologies & Decentralized Systems",
     "🤖 Human-Computer Interaction",
     "🔒 Cybersecurity & Privacy",
   ];
@@ -149,6 +149,9 @@ const Home = () => {
             </a>
             <a href="https://www.instagram.com/lalithamanasvini?igsh=eTBmaG1wam92cGph" target="_blank" rel="noopener noreferrer">
               <FaInstagram /> Instagram
+            </a>
+            <a href="file:///C:/Users/manasvini/Downloads/Resume_new.pdf" target="_blank" rel="noopener noreferrer">
+              <FaFilePdf /> My Resume
             </a>
           </div>
         </motion.div>
