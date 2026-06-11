@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import { HiMail, HiPhone, HiAcademicCap, HiCode } from "react-icons/hi";
-import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram, FaFilePdf } from "react-icons/fa";
 
 const TypingEffect = () => {
   const [text, setText] = useState("");
