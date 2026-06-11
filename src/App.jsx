@@ -20,7 +20,7 @@ function App() {
         </AnimatePresence>
       </main>
       <footer className="footer">
-        <p>© 2024 Alex Rivera | Built with React & Framer Motion</p>
+        <p>© 2026 Lalitha Manasvini | Built with React & Framer Motion</p>
       </footer>
     </div>
   );
